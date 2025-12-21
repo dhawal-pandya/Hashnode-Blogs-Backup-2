@@ -1,5 +1,5 @@
 ---
-title: "How Software Engineering treated a UPSC aspirant?"
+title: "How Software Engineering treated a UPSC aspirant? (Study of Time - 2)"
 datePublished: Sun Dec 24 2023 04:37:19 GMT+0000 (Coordinated Universal Time)
 cuid: clqizzwnt000208lc9p3dbxb1
 slug: how-software-engineering-treated-a-upsc
