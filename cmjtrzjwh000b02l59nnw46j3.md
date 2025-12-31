@@ -80,7 +80,7 @@ My old friend Anxiety returned, no longer whispering this time but screaming. I 
 
 I had stopped learning. I had only started surviving. The discord I felt years ago in that exam hall, the gap between what I was doing and who I was, had returned. I was no longer a Software Engineer; I was a clerk who knew how to type syntax.
 
-I deliberated about this with many friends and senior colleagues about this, and most of them told me to apply elsewhere, and resign only once I have an offer from somewhere else. But what was happening was, there was no breathing space. Multiple interviews that I had scheduled with other companies had to be postponed, due to some emergency in our system then. I had even used my paid leaves for the same, but still I was expected to work on my leave days, because it was “urgent”. I even found myself reeling away from my laptop, and stay away from coding, even though that was the one thing I loved about being an engineer.
+I deliberated about this with many friends and senior colleagues, and most of them told me to apply elsewhere, and resign only once I have an offer from somewhere else. But what was happening was, there was no breathing space. Multiple interviews that I had scheduled with other companies had to be postponed, due to some emergency in our system then. I had even used my paid leaves for the same, but still I was expected to work on my leave days, because it was “urgent”. I even found myself reeling away from my laptop, and stay away from coding, even though that was the one thing I loved about being an engineer.
 
 I put in my papers without a backup. I simply walked out of the fire and into the cool air. It was the eighth day of Navratri, a time of victory of good over evil, and I felt a quiet victory of my own. I didn't feel dread, I felt like a fish returned to the ocean.
 
@@ -96,6 +96,6 @@ On December 21st, the winter solstice, the longest night of the year, I began my
 
 Now, I sit at Tithal Beach. The black sand is warm beneath my feet, and the waves of the ocean itself are my screensaver. I open my laptop under the shade of an umbrella. I write code. I drink tea.
 
-Am I successful? I don't know, and for the first time in my life, I don't care. I am at peace. And perhaps, in this study of time, that is the only metric that counts.  
-  
+Am I successful? I don't know, and for the first time in my life, I don't care. I am at peace. And perhaps, in this study of time, that is the only metric that counts.
+
 Are you at peace?
