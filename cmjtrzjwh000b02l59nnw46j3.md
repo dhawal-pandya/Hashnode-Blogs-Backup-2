@@ -4,7 +4,6 @@ datePublished: Wed Dec 31 2025 04:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmjtrzjwh000b02l59nnw46j3
 slug: the-longest-night-study-of-time-3
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FoY_p4LoPSM/upload/9287d954bd5d2553ae440be15829b031.jpeg
-tags: engineering, coding, software-engineering, career, success
 
 ---
 
