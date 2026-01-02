@@ -35,9 +35,9 @@ Now to the folks already reading this on their Apple devices, it may not seem li
 
 Since then I have become both more foolish and wiser simultaneously, I now know that it was merely vanity, but under the veil of being successful. Still at that time I came out of my depression quickly being pulled on my Unix.
 
-I never really stopped learning. CS was very cool to me. Every time I faced a technical issue, I would learn how some genius had bypassed it. For example, we do not measure the average latency of a server, but the p99 or the p95. This is far more useful, but deeply unintuitive at first. There were many such ideas that gave me genuine “aha” moments. Another was the assignment-in-condition trap. I started writing code defensively with that in mind, only to later learn that Go simply does not allow this class of mistake. So why had I internalized it so strongly? It turned out to be inherited knowledge — something my lead had learned from C++ during his CS education and carried forward as a reflex.
+I never really stopped learning. CS was very cool to me. Every time I faced a technical issue, I would learn how some genius had bypassed it. For example, we do not measure the average latency of a server, but the p99 or the p95. This is far more useful, but deeply unintuitive at first. There were many such ideas that gave me genuine “aha” moments. Another was the assignment-in-condition trap. I started writing code defensively with that in mind, only to later learn that Go simply does not allow this class of mistake. So why had I internalized it so strongly? It turned out to be inherited knowledge, something my lead had learned from C++ during his CS education and carried forward as a reflex.
 
-That was an important realization for me. People with strong CS backgrounds were not some bias-free logic machines. They, too, carried redundant beliefs and historical baggage. Around the same time, another feeling started creeping in: code was hackable. Many solutions that once felt clever began to look like hacks when I revisited them months later. I deliberately resisted over-indexing on that thought — because with enough cynicism, everything can be reduced to a hack. But as long as I kept learning, I felt I was still doing what I had come here to do.
+That was an important realization for me. People with strong CS backgrounds were not some bias-free logic machines. They, too, carried redundant beliefs and historical baggage. Around the same time, another feeling started creeping in: code was hackable. Many solutions that once felt clever began to look like hacks when I revisited them months later. I deliberately resisted over-indexing on that thought, because with enough cynicism, everything can be reduced to a hack. But as long as I kept learning, I felt I was still doing what I had come here to do.
 
 …
 
@@ -91,7 +91,7 @@ The irony was not lost on me. I had spent years trying to climb the ladder in th
 
 I realized then that the 'bubble' I was so worried about riding or bursting didn't matter. I had stepped out of the bubble entirely and planted my feet on the ground.
 
-On December 21st, the winter solstice, the longest night of the year, I began my new journey. It felt fitting. I had survived the long darkness of my own doubt, and the sun was finally starting its return. Sol Invictus indeed.
+On the day after December 21st, the winter solstice, the longest night of the year, I began my new journey. It felt fitting. I had survived the long darkness of my own doubt, and the sun was finally starting its return. Sol Invictus indeed.
 
 Now, I sit at Tithal Beach. The black sand is warm beneath my feet, and the waves of the ocean itself are my screensaver. I open my laptop under the shade of an umbrella. I write code. I drink tea.
 
